@@ -1,5 +1,5 @@
 # apzkr-pzpi-21-1-nekh-taras
 
-ПЗПІ-21-1 /n
+ПЗПІ-21-1
 Нех Тарас
 SmartCourses
